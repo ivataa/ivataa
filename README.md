@@ -4,7 +4,7 @@
   #:bio "high school student"
   #:programming '(racket python3 shell)
   #:os '(nixos arch-linux)
-  #:speak '(english cantonese)
+  #:speaks '(english cantonese)
   #:know-how '(webdev sysadmin ctf devops)
 )
 ```
